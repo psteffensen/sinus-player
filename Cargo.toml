@@ -1,0 +1,10 @@
+[package]
+name = "sinus-player"
+version = "0.1.0"
+authors = ["psteffensen <psteffensen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "3.0.0-beta.1"
+cpal = "0.12.1"
+anyhow ="*"
